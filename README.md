@@ -1,7 +1,7 @@
 # Customers-and-Products-Analysis
 
-## Tools used in this project <>br</>
-**DB Browser for SQLite** _Commonly used tool for sqlite databases_
+## Tools used in this project 
+**DB Browser for SQLite** _Commonly used tool for sqlite databases_ <>br</>
 **Store db** _Database file for this project_
 
 ## Project Goals and challenges
